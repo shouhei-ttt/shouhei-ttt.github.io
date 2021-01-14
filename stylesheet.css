@@ -14,7 +14,7 @@
     font-size: 100px;
 }
 body{background-image:url("top.png"),url("img_03e15f43f8e4c2041f4a54bdfb903f43146368.jpg");
-     background-repeat:url("top.png"),url("img_03e15f43f8e4c2041f4a54bdfb903f43146368.jpg");
-     background-attachment:fixed;
-     background-position:left top;
+     background-repeat:no-repeat,repeat;
+     background-attachment:fixed,fixed;
+     background-position:left top,left 10% bottom;
 }
