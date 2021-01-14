@@ -5,4 +5,7 @@
     color: blueviolet;
     font-size:  100px;
 }  
-body{background-image:url("top.png")}
+body{background-image:url("top.png");
+     background-repeat:no-repeat;
+     background-attachment:fixed;
+}
